@@ -1,0 +1,63 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (Pag-prueba-01.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Pag3DGroup.cpp
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pag3dgroup.cpp(19): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pag3dgroup.cpp(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pag3dgroup.cpp(59): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pag3dgroup.cpp(79): warning C4018: '<': no coinciden signed/unsigned
+  PagLibraryMaterial.cpp
+  PagLibraryTexture.cpp
+  PagMaterial.cpp
+  PagPlane.cpp
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagplane.cpp(42): warning C4018: '<': no coinciden signed/unsigned
+  PagRenderer.cpp
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrenderer.cpp(77): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrenderer.cpp(89): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrenderer.cpp(105): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrenderer.cpp(106): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  PagRevolutionObject.cpp
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(10): warning C4244: 'inicializando': conversión de 'genType' a 'float'; posible pérdida de datos
+          with
+          [
+              genType=double
+          ]
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(10): warning C4244: 'inicializando': conversión de 'genType' a 'const float'; posible pérdida de datos
+          with
+          [
+              genType=double
+          ]
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(11): warning C4244: 'inicializando': conversión de 'genType' a 'float'; posible pérdida de datos
+          with
+          [
+              genType=double
+          ]
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(11): warning C4244: 'inicializando': conversión de 'genType' a 'const float'; posible pérdida de datos
+          with
+          [
+              genType=double
+          ]
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(109): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(121): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(210): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(213): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(220): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(225): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(234): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(240): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(256): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(262): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(272): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(275): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(282): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(287): warning C4018: '<=': no coinciden signed/unsigned
+  PagTexture.cpp
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagtexture.cpp(21): warning C4018: '<': no coinciden signed/unsigned
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagtexture.cpp(40): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagtexture.cpp(41): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagtexture.cpp(42): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagtexture.cpp(43): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  main.cpp
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\main.cpp(122): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+  Generando código...
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(370): warning C4715: 'PagRevolutionObject::getNPoints': no todas las rutas de acceso de control devuelven un valor
+c:\users\javi\desktop\pag1819-lópez-quesada-javier\pag-prueba-01\pagrevolutionobject.cpp(344): warning C4715: 'PagRevolutionObject::has': no todas las rutas de acceso de control devuelven un valor
+  Pag-prueba-01.vcxproj -> C:\Users\Javi\Desktop\PAG1819-López-Quesada-Javier\Debug\PAG1819-López-Quesada-Javier.exe
